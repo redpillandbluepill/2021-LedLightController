@@ -1,0 +1,2 @@
+rootProject.name = "LED_Control_Client"
+include ':app'
